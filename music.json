@@ -1,0 +1,57 @@
+{
+    "songs": [
+        {
+            "title": "Song 1",
+            "artist": [ "Artist 1", "Artist 2" ],
+            "album": {
+                "title": "Album 1",
+                "released": {
+                    "year": 2010,
+                    "month": "January",
+                    "day": 16
+                }
+            },
+            "genre": [ "R&B", "Hip Hop" ]
+        },
+        {
+            "title": "Song 2",
+            "artist": [ "Artist 3" ],
+            "featured": [ "Artist 1", "Artist 5" ],
+            "album": {
+                "title": "Album 2",
+                "released": {
+                    "year": 2019
+                }
+            },
+            "genre": [ "Pop" ],
+            "composer": "Composer 1",
+            "producer": "Producer 1"
+        },
+        {
+            "title": "Song 3",
+            "artist": [ "Artist 4" ],
+            "album": {
+                "title": "Album 3",
+                "released": {
+                    "year": 2022,
+                    "month": "March",
+                    "day": 7
+                }
+            },
+            "genre": [ "Rock", "Metal" ]
+        },
+        {
+            "title": "Song 4",
+            "artist": [ "Artist 5" ],
+            "album": {
+                "title": "Album 4",
+                "released": {
+                    "year": 1994,
+                    "month": "November"
+                }
+            },
+            "genre": [ "Jazz" ],
+            "producer": "Producer 2"
+        }
+    ]
+}
